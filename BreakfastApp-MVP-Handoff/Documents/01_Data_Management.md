@@ -1,0 +1,30 @@
+# Project: Data Management
+
+## Tasks
+
+### 1. Define Data Models
+- [x] Create `Recipe.swift` struct conforming to `Decodable` and `Identifiable`.
+  - [x] Properties: `id` (UUID, generate on decode), `name` (String), `ingredients` ([String]), `prepTime` (Int), `tags` ([String]), `imageName` (String, optional - map from recipe name or add to JSON).
+- [ ] Create `Ingredient.swift` (Consider if needed beyond String, maybe for pantry status).
+
+### 2. Implement Recipe Loading
+- [x] Create `DataLoadingService.swift` (in `Helpers`).
+- [x] Add function `load<T: Decodable>(_ filename: String) -> T` to load and decode JSON from the bundle.
+- [x] Handle potential file reading and JSON decoding errors gracefully.
+- [x] Store loaded recipes in a property accessible to ViewModels (e.g., `@StateObject` in main view or singleton).
+
+### 3. Implement Pantry Storage (UserDefaults for MVP)
+- [ ] Create `PantryStorageService.swift` (in `Helpers`).
+- [ ] Use `@AppStorage` or manual UserDefaults access within the ViewModel to store pantry ingredients (e.g., `Set<String>`).
+- [ ] Function `addIngredient(name: String)`.
+- [ ] Function `removeIngredient(name: String)`.
+- [ ] Function `getPantryIngredients()` (or make the stored property `@Published`).
+- [ ] Ensure ingredient names are consistently cased/trimmed.
+
+### 4. Implement Favorites Storage (UserDefaults for MVP)
+- [ ] Create `FavoritesViewModel.swift` (or integrate into another VM/Service).
+- [ ] Use `@AppStorage` or manual UserDefaults to store favorite recipe IDs (e.g., `Set<UUID>`).
+- [ ] Function `addFavorite(recipeId: UUID)`.
+- [ ] Function `removeFavorite(recipeId: UUID)`.
+- [ ] Function `isFavorite(recipeId: UUID)` -> `Bool`.
+- [ ] Make favorite status available reactively. 

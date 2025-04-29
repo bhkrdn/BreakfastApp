@@ -1,0 +1,1349 @@
+[
+    {
+        "name": "Classic scrambled eggs",
+        "ingredients": [
+            "eggs",
+            "butter",
+            "salt",
+            "pepper"
+        ],
+        "prepTime": 5,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Omelette with cheese",
+        "ingredients": [
+            "eggs",
+            "cheese",
+            "butter",
+            "salt",
+            "pepper"
+        ],
+        "prepTime": 7,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Omelette with vegetables",
+        "ingredients": [
+            "eggs",
+            "bell pepper",
+            "onion",
+            "tomato",
+            "salt",
+            "pepper"
+        ],
+        "prepTime": 8,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Turkish Menemen",
+        "ingredients": [
+            "eggs",
+            "tomato",
+            "green pepper",
+            "olive oil",
+            "salt"
+        ],
+        "prepTime": 10,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Boiled eggs with butter toast",
+        "ingredients": [
+            "eggs",
+            "bread",
+            "butter"
+        ],
+        "prepTime": 6,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Poached eggs on toast",
+        "ingredients": [
+            "eggs",
+            "bread",
+            "vinegar",
+            "salt"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Avocado toast with egg",
+        "ingredients": [
+            "avocado",
+            "bread",
+            "eggs",
+            "salt",
+            "pepper"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Egg and cheese sandwich",
+        "ingredients": [
+            "eggs",
+            "cheese",
+            "bread",
+            "butter"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Egg muffins (baked)",
+        "ingredients": [
+            "eggs",
+            "cheese",
+            "spinach",
+            "milk",
+            "salt"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Breakfast burrito with egg",
+        "ingredients": [
+            "eggs",
+            "tortilla",
+            "cheese",
+            "spinach",
+            "tomato"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Fried egg sandwich",
+        "ingredients": [
+            "eggs",
+            "bread",
+            "butter"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Egg and spinach wrap",
+        "ingredients": [
+            "eggs",
+            "spinach",
+            "tortilla",
+            "cheese"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Shakshuka (simple)",
+        "ingredients": [
+            "eggs",
+            "tomato",
+            "onion",
+            "olive oil",
+            "pepper"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Cheesy scrambled eggs",
+        "ingredients": [
+            "eggs",
+            "cheese",
+            "butter",
+            "salt"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Egg salad sandwich",
+        "ingredients": [
+            "eggs",
+            "mayonnaise",
+            "bread",
+            "lettuce"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Egg and tomato toast",
+        "ingredients": [
+            "eggs",
+            "tomato",
+            "bread",
+            "olive oil"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Egg in a hole",
+        "ingredients": [
+            "eggs",
+            "bread",
+            "butter"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Egg and mushroom sauté",
+        "ingredients": [
+            "eggs",
+            "mushrooms",
+            "butter",
+            "salt",
+            "pepper"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Breakfast quesadilla with egg",
+        "ingredients": [
+            "eggs",
+            "cheese",
+            "tortilla"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Simple frittata",
+        "ingredients": [
+            "eggs",
+            "spinach",
+            "cheese",
+            "tomato"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Egg and bacon sandwich",
+        "ingredients": [
+            "eggs",
+            "bacon",
+            "bread",
+            "butter"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein"
+        ]
+    },
+    {
+        "name": "Sausage and scrambled egg wrap",
+        "ingredients": [
+            "eggs",
+            "sausage",
+            "tortilla",
+            "cheese"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Cloud eggs",
+        "ingredients": [
+            "eggs",
+            "salt",
+            "pepper"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Mediterranean egg plate",
+        "ingredients": [
+            "eggs",
+            "cheese",
+            "olives",
+            "tomato",
+            "cucumber"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Quick French toast",
+        "ingredients": [
+            "bread",
+            "eggs",
+            "milk",
+            "cinnamon",
+            "sugar"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Overnight oats with banana",
+        "ingredients": [
+            "oats",
+            "banana",
+            "milk",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Overnight oats with yogurt and berries",
+        "ingredients": [
+            "oats",
+            "yogurt",
+            "berries",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Peanut butter oatmeal",
+        "ingredients": [
+            "oats",
+            "peanut butter",
+            "milk",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Cinnamon apple oatmeal",
+        "ingredients": [
+            "oats",
+            "apple",
+            "cinnamon",
+            "milk"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Chocolate banana oatmeal",
+        "ingredients": [
+            "oats",
+            "banana",
+            "cocoa powder",
+            "milk"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Strawberry overnight oats",
+        "ingredients": [
+            "oats",
+            "strawberries",
+            "milk",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Chia pudding with milk",
+        "ingredients": [
+            "chia seeds",
+            "milk",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Granola with yogurt and honey",
+        "ingredients": [
+            "granola",
+            "yogurt",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Smoothie: banana + peanut butter",
+        "ingredients": [
+            "banana",
+            "peanut butter",
+            "milk"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Smoothie: strawberry + banana",
+        "ingredients": [
+            "strawberries",
+            "banana",
+            "milk"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Smoothie: spinach + mango",
+        "ingredients": [
+            "spinach",
+            "mango",
+            "banana",
+            "milk"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Green detox smoothie",
+        "ingredients": [
+            "spinach",
+            "cucumber",
+            "apple",
+            "lemon"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Berry smoothie bowl",
+        "ingredients": [
+            "berries",
+            "banana",
+            "yogurt",
+            "granola"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Peanut butter and jelly smoothie",
+        "ingredients": [
+            "peanut butter",
+            "berries",
+            "milk"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Protein smoothie",
+        "ingredients": [
+            "banana",
+            "protein powder",
+            "milk"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Coconut milk chia pudding",
+        "ingredients": [
+            "chia seeds",
+            "coconut milk",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Warm oatmeal with raisins",
+        "ingredients": [
+            "oats",
+            "raisins",
+            "milk",
+            "cinnamon"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Yogurt parfait with granola",
+        "ingredients": [
+            "yogurt",
+            "granola",
+            "berries",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Baked oatmeal bars",
+        "ingredients": [
+            "oats",
+            "banana",
+            "honey",
+            "peanut butter"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "3-ingredient banana pancakes",
+        "ingredients": [
+            "banana",
+            "egg",
+            "oats"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Oatmeal energy balls",
+        "ingredients": [
+            "oats",
+            "peanut butter",
+            "honey",
+            "chocolate chips"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Mango lassi smoothie",
+        "ingredients": [
+            "mango",
+            "yogurt",
+            "milk",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Greek yogurt bowl with honey and nuts",
+        "ingredients": [
+            "greek yogurt",
+            "honey",
+            "nuts"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Chocolate overnight oats",
+        "ingredients": [
+            "oats",
+            "cocoa powder",
+            "milk",
+            "honey"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Simit sandwich with cheese and tomato",
+        "ingredients": [
+            "simit",
+            "cheese",
+            "tomato"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Simit with cream cheese",
+        "ingredients": [
+            "simit",
+            "cream cheese"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Peanut butter and banana toast",
+        "ingredients": [
+            "bread",
+            "peanut butter",
+            "banana"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Avocado toast with chili flakes",
+        "ingredients": [
+            "avocado",
+            "bread",
+            "chili flakes"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Toasted cheese sandwich",
+        "ingredients": [
+            "bread",
+            "cheese",
+            "butter"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Simple tomato and mozzarella sandwich",
+        "ingredients": [
+            "bread",
+            "tomato",
+            "mozzarella"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Nutella and strawberry sandwich",
+        "ingredients": [
+            "bread",
+            "nutella",
+            "strawberries"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Hummus toast with cucumber",
+        "ingredients": [
+            "hummus",
+            "bread",
+            "cucumber"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Tuna salad sandwich",
+        "ingredients": [
+            "tuna",
+            "mayonnaise",
+            "bread",
+            "lettuce"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Open-faced egg salad toast",
+        "ingredients": [
+            "egg salad",
+            "bread",
+            "lettuce"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Olive paste and feta toast",
+        "ingredients": [
+            "olive paste",
+            "feta",
+            "bread"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Labneh and cucumber sandwich",
+        "ingredients": [
+            "labneh",
+            "cucumber",
+            "bread"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Plain simit with tea",
+        "ingredients": [
+            "simit"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Panini with cheese and turkey slices",
+        "ingredients": [
+            "panini bread",
+            "cheese",
+            "turkey slices"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Brie and jam toast",
+        "ingredients": [
+            "brie",
+            "bread",
+            "jam"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Breakfast bagel with cream cheese",
+        "ingredients": [
+            "bagel",
+            "cream cheese"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Quick pizza toast",
+        "ingredients": [
+            "bread",
+            "tomato paste",
+            "cheese"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Avocado and cottage cheese toast",
+        "ingredients": [
+            "avocado",
+            "cottage cheese",
+            "bread"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Classic BLT sandwich",
+        "ingredients": [
+            "bacon",
+            "lettuce",
+            "tomato",
+            "bread"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Peanut butter and jam sandwich",
+        "ingredients": [
+            "peanut butter",
+            "jam",
+            "bread"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Toast with ricotta and honey",
+        "ingredients": [
+            "ricotta",
+            "honey",
+            "bread"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Toast with hummus and avocado",
+        "ingredients": [
+            "hummus",
+            "avocado",
+            "bread"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Toast with labneh and za'atar",
+        "ingredients": [
+            "labneh",
+            "za'atar",
+            "bread"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Grilled halloumi sandwich",
+        "ingredients": [
+            "halloumi",
+            "bread",
+            "lettuce"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Bazlama sandwich",
+        "ingredients": [
+            "bazlama bread",
+            "cheese",
+            "tomato"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Yogurt with honey and walnuts",
+        "ingredients": [
+            "yogurt",
+            "honey",
+            "walnuts"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Fruit salad with yogurt",
+        "ingredients": [
+            "yogurt",
+            "mixed fruits"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Cottage cheese with berries",
+        "ingredients": [
+            "cottage cheese",
+            "berries"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Banana pancakes",
+        "ingredients": [
+            "banana",
+            "eggs",
+            "oats"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Chocolate chip pancakes",
+        "ingredients": [
+            "flour",
+            "milk",
+            "chocolate chips",
+            "egg"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Blueberry pancakes",
+        "ingredients": [
+            "flour",
+            "milk",
+            "blueberries",
+            "egg"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Classic American pancakes",
+        "ingredients": [
+            "flour",
+            "milk",
+            "egg",
+            "baking powder"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Waffles",
+        "ingredients": [
+            "waffle mix",
+            "milk",
+            "egg"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Mini cheese borek",
+        "ingredients": [
+            "phyllo pastry",
+            "cheese",
+            "parsley"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Quick croissant sandwich",
+        "ingredients": [
+            "croissant",
+            "cheese",
+            "ham"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein"
+        ]
+    },
+    {
+        "name": "Simit pizza",
+        "ingredients": [
+            "simit",
+            "tomato paste",
+            "cheese",
+            "pepper"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Gozleme with spinach and cheese",
+        "ingredients": [
+            "phyllo dough",
+            "spinach",
+            "cheese"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Turkish cheese platter",
+        "ingredients": [
+            "cheese",
+            "olives",
+            "tomato",
+            "cucumber"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Açma sandwich",
+        "ingredients": [
+            "açma",
+            "cheese",
+            "tomato"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Sucuk and eggs",
+        "ingredients": [
+            "sucuk",
+            "eggs"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Breakfast sausage wrap",
+        "ingredients": [
+            "sausage",
+            "tortilla",
+            "cheese"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Mücver",
+        "ingredients": [
+            "zucchini",
+            "egg",
+            "flour",
+            "parsley"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Breakfast potatoes",
+        "ingredients": [
+            "potatoes",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Quick yogurt dip with cucumber",
+        "ingredients": [
+            "yogurt",
+            "cucumber",
+            "dill"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Toasted tortilla wrap with cheese",
+        "ingredients": [
+            "tortilla",
+            "cheese"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Spinach and feta omelet wrap",
+        "ingredients": [
+            "spinach",
+            "feta",
+            "tortilla",
+            "eggs"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Cinnamon toast",
+        "ingredients": [
+            "bread",
+            "butter",
+            "cinnamon",
+            "sugar"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Bread with olive oil and thyme",
+        "ingredients": [
+            "bread",
+            "olive oil",
+            "thyme"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Cold breakfast plate",
+        "ingredients": [
+            "cheese",
+            "tomato",
+            "cucumber",
+            "olives"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "High Protein",
+            "Low Carb",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Muffin",
+        "ingredients": [
+            "flour",
+            "milk",
+            "sugar",
+            "egg"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegetarian"
+        ]
+    }
+]
