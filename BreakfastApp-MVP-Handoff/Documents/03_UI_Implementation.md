@@ -44,14 +44,14 @@
 - [x] Style according to mockups/guide.
 
 ### 6. Implement Favorites View
-- [ ] Create `FavoritesView.swift` and `FavoritesViewModel.swift`.
-- [ ] `FavoritesViewModel`: Inject/access `FavoritesService` and `RecipeService`, publish favorite `[Recipe]` list.
-- [ ] `FavoritesView`: Display favorite recipes using `RecipeCardView`s.
-- [ ] Wrap in `NavigationStack`.
-- [ ] Navigate to `RecipeDetailView` on card tap.
+- [x] Create `FavoritesView.swift` and `FavoritesViewModel.swift`.
+- [x] `FavoritesViewModel`: Inject/access FavoritesService and RecipeService, publish favorite `[Recipe]` list.
+- [x] `FavoritesView`: Display favorite recipes using `RecipeCardView`s.
+- [x] Wrap in `NavigationStack`.
+- [x] Navigate to `RecipeDetailView` on card tap.
 
 ### 7. Setup Main App Structure and Navigation
-- [ ] Create `ContentView.swift`.
-- [ ] Set up `TabView` containing `HomeView`, `PantryView`, `FavoritesView`.
-- [ ] Instantiate and inject necessary ViewModels/Services (`@StateObject`, `.environmentObject`).
-- [ ] Ensure `NavigationStack` is correctly placed for each tab that needs it. 
+- [x] Create `ContentView.swift`.
+- [x] Set up `TabView` containing `HomeView`, `PantryView`, `FavoritesView`.
+- [x] Instantiate and inject necessary ViewModels/Services (`@StateObject`, `.environmentObject`).
+- [x] Ensure `NavigationStack` is correctly placed for each tab that needs it. 

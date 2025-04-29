@@ -52,8 +52,8 @@ struct ContentView: View {
                     Label("Breakfast Ideas", systemImage: "frying.pan") // Using SF Symbol
                 }
             
-            // Favorites Tab
-            Text("Favorites Screen Placeholder")
+            // Favorites Tab - Integrate FavoritesView
+            FavoritesView(recipeViewModel: recipeViewModel, favoritesViewModel: favoritesViewModel)
                 .tag(Tab.favorites)
                 .tabItem {
                     Label("Favorites", systemImage: "heart") // Using SF Symbol
