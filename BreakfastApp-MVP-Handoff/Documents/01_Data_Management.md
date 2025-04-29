@@ -14,15 +14,15 @@
 - [x] Store loaded recipes in a property accessible to ViewModels (e.g., `@StateObject` in main view or singleton).
 
 ### 3. Implement Pantry Storage (UserDefaults for MVP)
-- [ ] Create `PantryStorageService.swift` (in `Helpers`).
-- [ ] Use `@AppStorage` or manual UserDefaults access within the ViewModel to store pantry ingredients (e.g., `Set<String>`).
-- [ ] Function `addIngredient(name: String)`.
-- [ ] Function `removeIngredient(name: String)`.
-- [ ] Function `getPantryIngredients()` (or make the stored property `@Published`).
-- [ ] Ensure ingredient names are consistently cased/trimmed.
+- [x] Create `PantryStorageService.swift` (in `Helpers`).
+- [x] Use UserDefaults for pantry storage (Set<String>).
+- [x] Implement `addIngredient`, `removeIngredient`.
+- [x] Ensure consistent ingredient name casing/trimming.
+- [x] Create `PantryViewModel.swift` (as `@StateObject` or `@EnvironmentObject`).
+- [x] Implement `getPantryIngredients()` (or make the stored property `@Published` in ViewModel).
 
 ### 4. Implement Favorites Storage (UserDefaults for MVP)
-- [ ] Create `FavoritesViewModel.swift` (or integrate into another VM/Service).
+- [ ] Create `FavoritesStorageService.swift` (in `Helpers`).
 - [ ] Use `@AppStorage` or manual UserDefaults to store favorite recipe IDs (e.g., `Set<UUID>`).
 - [ ] Function `addFavorite(recipeId: UUID)`.
 - [ ] Function `removeFavorite(recipeId: UUID)`.
