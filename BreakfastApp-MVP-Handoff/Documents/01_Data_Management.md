@@ -22,9 +22,9 @@
 - [x] Implement `getPantryIngredients()` (or make the stored property `@Published` in ViewModel).
 
 ### 4. Implement Favorites Storage (UserDefaults for MVP)
-- [ ] Create `FavoritesStorageService.swift` (in `Helpers`).
-- [ ] Use `@AppStorage` or manual UserDefaults to store favorite recipe IDs (e.g., `Set<UUID>`).
-- [ ] Function `addFavorite(recipeId: UUID)`.
-- [ ] Function `removeFavorite(recipeId: UUID)`.
-- [ ] Function `isFavorite(recipeId: UUID)` -> `Bool`.
-- [ ] Make favorite status available reactively. 
+- [x] Create `FavoritesStorageService.swift` (in `Helpers`).
+- [x] Use UserDefaults for favorite recipe IDs (Set<UUID>).
+- [x] Implement `addFavorite`, `removeFavorite`.
+- [x] Implement `isFavorite(recipeId: UUID) -> Bool`.
+- [x] Create `FavoritesViewModel.swift`.
+- [x] Make favorite status available reactively (in ViewModel). 

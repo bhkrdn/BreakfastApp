@@ -1,16 +1,19 @@
+import SwiftUI
+
 @main
 struct BreakfastAppApp: App {
-    // Create a single instance of RecipeViewModel that persists for the app's lifecycle
+    // Create ViewModels as StateObjects to persist across view updates
     @StateObject private var recipeViewModel = RecipeViewModel()
-    // Create a single instance of PantryViewModel
     @StateObject private var pantryViewModel = PantryViewModel()
+    @StateObject private var favoritesViewModel = FavoritesViewModel()
 
     var body: some Scene {
         WindowGroup {
             ContentView()
-                // Inject the ViewModels into the environment
+                // Inject the ViewModels into the environment for access by descendant views
                 .environmentObject(recipeViewModel)
                 .environmentObject(pantryViewModel)
+                .environmentObject(favoritesViewModel)
         }
     }
 } 
