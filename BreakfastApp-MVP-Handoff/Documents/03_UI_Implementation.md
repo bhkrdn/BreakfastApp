@@ -3,21 +3,21 @@
 ## Tasks
 
 ### 1. Apply Global Styles
-- [ ] Define `Color` constants in `Color+Extensions.swift` based on `UI-Style-Guide.md` (`backgroundMain`, `accentPrimary`, `textTitle`, etc.).
-- [ ] Define `Font` constants/helper functions in `Font+Extensions.swift` (e.g., `.titleStyle()`, `.bodyStyle()`).
-- [ ] Define standard padding/spacing values (e.g., `CGFloat` constants).
+- [x] Define `Color` constants in `Color+Extensions.swift` based on `UI-Style-Guide.md` (`backgroundMain`, `accentPrimary`, `textTitle`, etc.).
+- [x] Define `Font` constants/helper functions in `Font+Extensions.swift` (e.g., `.titleStyle()`, `.bodyStyle()`).
+- [x] Define standard padding/spacing values (e.g., `CGFloat` constants).
 
 ### 2. Implement Common UI Components
-- [ ] Create `RecipeCardView.swift`.
-  - [ ] Input: `RecipeMatchResult`.
-  - [ ] Display image (use SF Symbol placeholder initially), title, tags, prep time.
-  - [ ] Conditionally display the light blue "Missing [Ingredient]" capsule (`#E0F0FF`) if `matchType == .missingOne`.
-  - [ ] Apply rounded corners, padding per style guide.
-- [ ] Create reusable `PillView.swift` for tags and missing ingredient label.
+- [x] Create `RecipeCardView.swift`.
+  - [x] Input: `RecipeMatchResult`.
+  - [x] Display image (use SF Symbol placeholder initially), title, tags, prep time.
+  - [x] Conditionally display the light blue "Missing [Ingredient]" capsule (`#E0F0FF`) if `matchType == .missingOne`.
+  - [x] Apply rounded corners, padding per style guide.
+- [x] Create reusable `PillView.swift` for tags and missing ingredient label.
 - [ ] Style the main `TabView`:
-    - Set background color (`#FFFFFF`).
-    - Set icon and label colors (`#FF8C32`, `#2E2E2E`).
-    - Use appropriate SF Symbols for icons (outline style).
+    - [x] Set background color (#FFFFFF).
+    - [x] Set icon and label colors (#FF8C32, #2E2E2E).
+    - [x] Use appropriate SF Symbols for icons (outline style).
 
 ### 3. Implement Home / Recipe Suggestions View
 - [ ] Create `HomeView.swift` and `HomeViewModel.swift`.
