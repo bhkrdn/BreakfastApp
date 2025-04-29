@@ -20,19 +20,19 @@
     - [x] Use appropriate SF Symbols for icons (outline style).
 
 ### 3. Implement Home / Recipe Suggestions View
-- [ ] Create `HomeView.swift` and `HomeViewModel.swift`.
-- [ ] `HomeViewModel`: Load recipes, get pantry items, use `RecipeMatcherService`, publish `[RecipeMatchResult]`.
-- [ ] `HomeView`: Display `RecipeCardView`s in a `ScrollView` or `List`.
+- [x] Create HomeView.swift and HomeViewModel.swift.
+- [x] `HomeViewModel`: Load recipes, get pantry items, use `RecipeMatcherService`, publish `[RecipeMatchResult]`.
+- [x] `HomeView`: Display `RecipeCardView`s in a `ScrollView` or `List`.
 - [ ] Implement Search Bar filtering (if required on this screen).
-- [ ] Wrap `HomeView` in `NavigationStack` for navigation.
-- [ ] Navigate to `RecipeDetailView` on card tap.
+- [x] Wrap `HomeView` in `NavigationStack` for navigation.
+- [x] Navigate to `RecipeDetailView` on card tap.
 
 ### 4. Implement Recipe Detail View
-- [ ] Create `RecipeDetailView.swift` and `RecipeDetailViewModel.swift`.
-- [ ] Input: `Recipe`.
-- [ ] Display large image, title, tags, prep time, ingredients list, instructions (placeholder text).
-- [ ] Add Favorite toggle button (e.g., heart icon) connected to `FavoritesViewModel`.
-- [ ] Style according to mockups/guide.
+- [x] Create `RecipeDetailView.swift` and RecipeDetailViewModel.swift.
+- [x] Input: `Recipe`.
+- [x] Display large image, title, tags, prep time, ingredients list, instructions (placeholder text).
+- [x] Add Favorite toggle button (e.g., heart icon) connected to `FavoritesViewModel`.
+- [x] Style according to mockups/guide.
 
 ### 5. Implement Pantry Management View
 - [ ] Create `PantryView.swift` and `PantryViewModel.swift`.

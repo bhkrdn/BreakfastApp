@@ -5,6 +5,7 @@ struct HomeView: View {
     // Access the shared ViewModels needed by HomeViewModel
     @EnvironmentObject var recipeViewModel: RecipeViewModel
     @EnvironmentObject var pantryViewModel: PantryViewModel
+    @EnvironmentObject var favoritesViewModel: FavoritesViewModel // Needed for Detail View injection
     
     // StateObject for the view-specific ViewModel
     // Initialized here, taking the shared ViewModels as dependencies
@@ -24,9 +25,18 @@ struct HomeView: View {
                 LazyVStack(spacing: .spacingLarge) {
                     // Iterate over the results published by the ViewModel
                     ForEach(viewModel.recipeMatchResults) { result in
-                        // Display each result using RecipeCardView
-                        RecipeCardView(result: result)
-                        // TODO: Add navigation link here later
+                        // Wrap RecipeCardView in a NavigationLink
+                        NavigationLink(destination: 
+                            // Destination is the RecipeDetailView for the selected recipe
+                            RecipeDetailView(recipe: result.recipe)
+                                // Inject FavoritesViewModel into DetailView
+                                .environmentObject(favoritesViewModel) 
+                        ) {
+                            // The link's label is the RecipeCardView itself
+                            RecipeCardView(result: result)
+                        }
+                        // Make the NavigationLink less intrusive visually
+                        .buttonStyle(PlainButtonStyle()) 
                     }
                 }
                 .padding(.horizontal) // Add horizontal padding to the list content
@@ -48,6 +58,7 @@ struct HomeView_Previews: PreviewProvider {
         // Create and configure the ViewModels *before* creating the view
         let recipeViewModel = RecipeViewModel()
         let pantryViewModel = PantryViewModel()
+        let favoritesViewModel = FavoritesViewModel() // Create for preview
         
         // Add sample pantry items
         pantryViewModel.addIngredient("eggs")
@@ -59,7 +70,7 @@ struct HomeView_Previews: PreviewProvider {
         return HomeView(recipeViewModel: recipeViewModel, pantryViewModel: pantryViewModel)
             .environmentObject(recipeViewModel)
             .environmentObject(pantryViewModel)
-            .environmentObject(FavoritesViewModel())
+            .environmentObject(favoritesViewModel) // Inject for preview
     }
 }
 #endif 
