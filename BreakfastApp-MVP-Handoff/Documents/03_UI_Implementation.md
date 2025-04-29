@@ -35,13 +35,13 @@
 - [x] Style according to mockups/guide.
 
 ### 5. Implement Pantry Management View
-- [ ] Create `PantryView.swift` and `PantryViewModel.swift`.
-- [ ] `PantryViewModel`: Inject/access `PantryService`, publish pantry ingredients list.
-- [ ] `PantryView`: Display ingredients in a `List`.
-- [ ] Add Text Field and Button to add ingredients.
-- [ ] Implement swipe-to-delete for removing ingredients.
+- [x] Create `PantryView.swift` and PantryViewModel.swift.
+- [x] `PantryViewModel`: Inject/access PantryService, publish pantry ingredients list.
+- [x] `PantryView`: Display ingredients in a `List`.
+- [x] Add Text Field and Button to add ingredients.
+- [x] Implement swipe-to-delete for removing ingredients.
 - [ ] Add Search Bar to filter displayed ingredients.
-- [ ] Style according to mockups/guide.
+- [x] Style according to mockups/guide.
 
 ### 6. Implement Favorites View
 - [ ] Create `FavoritesView.swift` and `FavoritesViewModel.swift`.

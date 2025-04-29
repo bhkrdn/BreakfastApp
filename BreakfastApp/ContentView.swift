@@ -38,8 +38,8 @@ struct ContentView: View {
     
     var body: some View {
         TabView(selection: $selectedTab) {
-            // Pantry Tab
-            Text("Pantry Screen Placeholder")
+            // Pantry Tab - Integrate PantryView
+            PantryView()
                 .tag(Tab.pantry)
                 .tabItem {
                     Label("Pantry", systemImage: "basket") // Using SF Symbol

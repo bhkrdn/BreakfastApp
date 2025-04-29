@@ -9,6 +9,7 @@ This file tracks potential features and enhancements for future versions of the 
 - [ ] Add support for custom fonts (Poppins/Inter).
 - [ ] Implement a custom splash screen (`LaunchScreen.swift`).
 - [ ] Review and refine `RecipeDetailView` layout and styling against mockups/design guide.
+- [ ] Review and refine `PantryView` layout and styling (e.g., text field, list appearance).
 
 ## Data & Logic
 - [ ] Migrate storage from `UserDefaults` to CoreData or another persistent solution.
