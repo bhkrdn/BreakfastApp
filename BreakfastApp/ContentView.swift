@@ -46,7 +46,7 @@ struct ContentView: View {
                 }
             
             // Breakfast Ideas (Home) Tab
-            Text("Breakfast Ideas Placeholder")
+            HomeView(recipeViewModel: recipeViewModel, pantryViewModel: pantryViewModel)
                 .tag(Tab.breakfastIdeas)
                 .tabItem {
                     Label("Breakfast Ideas", systemImage: "frying.pan") // Using SF Symbol
