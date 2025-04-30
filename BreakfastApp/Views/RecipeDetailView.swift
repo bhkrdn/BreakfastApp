@@ -15,8 +15,8 @@ struct RecipeDetailView: View {
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: .spacingMedium) {
-                // Placeholder for the Image
-                Image(systemName: "photo")
+                // Load image using imageName, fallback to placeholder
+                Image(recipe.imageName ?? "photo") // Use image name or system icon fallback
                     .resizable()
                     .aspectRatio(contentMode: .fill)
                     .frame(height: 250) // Larger image for detail view
@@ -102,11 +102,15 @@ struct RecipeDetailView: View {
 #if DEBUG
 struct RecipeDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        // Get a sample recipe from the loader for preview
-        let sampleRecipe = DataLoadingService.loadRecipes().first ?? Recipe(name: "Sample Error", ingredients: [], prepTime: 0, tags: [])
+        // Use a manually created sample recipe with an image name for robust previewing
+        let sampleRecipeWithImage = Recipe(name: "Classic Scrambled Eggs", 
+                                         ingredients: ["eggs", "butter", "salt", "pepper"], 
+                                         prepTime: 5, 
+                                         tags: ["High Protein", "Vegetarian"], 
+                                         imageName: "scrambled-eggs")
         
         NavigationStack { // Wrap in NavigationStack for previewing title
-            RecipeDetailView(recipe: sampleRecipe)
+            RecipeDetailView(recipe: sampleRecipeWithImage)
                 .environmentObject(FavoritesViewModel()) // Inject for potential future use
         }
     }

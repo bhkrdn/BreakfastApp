@@ -12,7 +12,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "scrambled-eggs"
     },
     {
         "name": "Omelette with cheese",
@@ -61,7 +62,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "turkish-menemen"
     },
     {
         "name": "Boiled eggs with butter toast",
@@ -74,7 +76,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "boiled-eggs-with-butter-toast"
     },
     {
         "name": "Poached eggs on toast",
@@ -249,7 +252,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "egg-in-a-hole"
     },
     {
         "name": "Egg and mushroom sauté",
@@ -380,7 +384,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "overnight-oats-with-banana"
     },
     {
         "name": "Overnight oats with yogurt and berries",
@@ -394,7 +399,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "overnight-oats-with-yogurt-and-berries"
     },
     {
         "name": "Peanut butter oatmeal",
@@ -485,7 +491,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "smoothie-banana-peanut-butter"
     },
     {
         "name": "Smoothie: strawberry + banana",
@@ -524,7 +531,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "green-detox-smoothie"
     },
     {
         "name": "Berry smoothie bowl",

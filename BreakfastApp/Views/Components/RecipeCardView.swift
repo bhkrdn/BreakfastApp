@@ -6,8 +6,8 @@ struct RecipeCardView: View {
     
     var body: some View {
         VStack(alignment: .leading, spacing: 0) { // Use spacing 0 and manage padding manually
-            // Placeholder for the Image - Replace with actual image loading later
-            Image(systemName: "photo") // Placeholder image
+            // Use the actual image name from the recipe, or fallback to placeholder
+            Image(result.recipe.imageName ?? "photo") // Use image name, fallback to system icon
                 .resizable()
                 .aspectRatio(contentMode: .fill)
                 // Clip the top part of the image to have rounded corners
@@ -64,8 +64,8 @@ struct RecipeCardView: View {
 #if DEBUG
 struct RecipeCardView_Previews: PreviewProvider {
     static var previews: some View {
-        // Create sample data directly in the preview
-        let sampleRecipeFullMatch = Recipe(name: "Classic Scrambled Eggs", ingredients: ["eggs", "butter", "salt"], prepTime: 5, tags: ["High Protein", "Vegetarian"], imageName: nil)
+        // Create sample data directly in the preview, now including imageName
+        let sampleRecipeFullMatch = Recipe(name: "Classic Scrambled Eggs", ingredients: ["eggs", "butter", "salt"], prepTime: 5, tags: ["High Protein", "Vegetarian"], imageName: "scrambled-eggs")
         let sampleResultFull = RecipeMatchResult(recipe: sampleRecipeFullMatch, missingIngredients: [])
         
         let sampleRecipeMissingOne = Recipe(name: "Pancakes", ingredients: ["flour", "milk", "egg", "sugar"], prepTime: 15, tags: ["Vegetarian"], imageName: nil)
