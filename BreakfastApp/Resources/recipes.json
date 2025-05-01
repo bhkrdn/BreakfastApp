@@ -106,7 +106,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "avocado-toast-with-egg"
     },
     {
         "name": "Egg and cheese sandwich",
@@ -165,7 +166,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "fried-egg-sandwich"
     },
     {
         "name": "Egg and spinach wrap",
@@ -427,7 +429,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "cinnamon-apple-oatmeal"
     },
     {
         "name": "Chocolate banana oatmeal",
@@ -440,7 +443,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "chocolate-banana-oatmeal"
     },
     {
         "name": "Strawberry overnight oats",
@@ -465,7 +469,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "chia-pudding-with-milk"
     },
     {
         "name": "Granola with yogurt and honey",
@@ -478,7 +483,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "granola-with-yogurt-and-honey"
     },
     {
         "name": "Smoothie: banana + peanut butter",
@@ -546,7 +552,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "berry-smoothie-bowl"
     },
     {
         "name": "Peanut butter and jelly smoothie",
@@ -610,7 +617,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "yogurt-parfait-with-granola"
     },
     {
         "name": "Baked oatmeal bars",
@@ -624,7 +632,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "baked-oatmeal-bars"
     },
     {
         "name": "3-ingredient banana pancakes",
@@ -637,7 +646,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "3-ingredient-banana-pancakes"
     },
     {
         "name": "Oatmeal energy balls",
@@ -744,7 +754,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "avocado-toast-with-chili-flakes"
     },
     {
         "name": "Toasted cheese sandwich",
@@ -860,7 +871,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "plain-simit-with-tea"
     },
     {
         "name": "Panini with cheese and turkey slices",
@@ -925,7 +937,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "avocado-and-cottage-cheese-toast"
     },
     {
         "name": "Classic BLT sandwich",
@@ -1017,7 +1030,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "bazlama-sandwich"
     },
     {
         "name": "Yogurt with honey and walnuts",
@@ -1067,7 +1081,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "banana-pancakes"
     },
     {
         "name": "Chocolate chip pancakes",
@@ -1118,7 +1133,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "waffles"
     },
     {
         "name": "Mini cheese borek",
@@ -1144,7 +1160,8 @@
         "prepTime": 0,
         "tags": [
             "High Protein"
-        ]
+        ],
+        "imageName": "quick-croissant-sandwich"
     },
     {
         "name": "Simit pizza",
@@ -1159,7 +1176,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "simit-pizza"
     },
     {
         "name": "Gozleme with spinach and cheese",
@@ -1202,7 +1220,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "acma-sandwich"
     },
     {
         "name": "Sucuk and eggs",
@@ -1215,7 +1234,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "sucuk-and-eggs"
     },
     {
         "name": "Breakfast sausage wrap",

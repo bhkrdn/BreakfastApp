@@ -6,7 +6,7 @@ This document mirrors the structure defined in `.cursor/rules/project-structure.
 BreakfastApp/
 ├── App/
 │   ├── BreakfastAppApp.swift         # App entry point (TabView, ViewModel injection)
-│   ├── LaunchScreen.swift (optional) # Minimal splash screen view
+│   └── LaunchScreen.swift (optional) # Minimal splash screen view (If implemented)
 ├── Views/
 │   ├── HomeView.swift                # Main Recipe Suggestions Screen
 │   ├── RecipeDetailView.swift         # Detailed recipe page
@@ -23,13 +23,16 @@ BreakfastApp/
 │   ├── PantryViewModel.swift          # Manages state for PantryView (add/remove ingredients)
 │   ├── FavoritesViewModel.swift       # Manages state for FavoritesView (saved recipes)
 ├── Resources/
-│   ├── recipes.json                   # Static recipe database
+│   └── recipes.json                   # Static recipe database
 ├── Helpers/                           # Utility classes, services, and extensions
 │   ├── DataLoadingService.swift       # Handles loading recipes.json
 │   ├── RecipeMatcherService.swift     # Logic for matching pantry ingredients to recipes
 │   ├── PantryStorageService.swift     # Handles saving/loading pantry data (UserDefaults)
 │   ├── FavoritesStorageService.swift  # Handles saving/loading favorites data (UserDefaults)
 │   └── Extensions/                    # Swift extensions (e.g., Color+, Font+)
+│       ├── Color+Extensions.swift
+│       ├── Font+Extensions.swift
+│       └── CGFloat+Extensions.swift
 ├── Assets.xcassets/                   # Images, icons, colors
 │   ├── AppIcon.appiconset/
 │   ├── LaunchScreen.imageset/
