@@ -642,7 +642,7 @@
             "egg",
             "oats"
         ],
-        "prepTime": 10,
+        "prepTime": 0,
         "tags": [
             "Vegan",
             "Vegetarian"
@@ -750,7 +750,7 @@
             "bread",
             "chili flakes"
         ],
-        "prepTime": 5,
+        "prepTime": 0,
         "tags": [
             "Vegan",
             "Vegetarian"
@@ -861,6 +861,18 @@
             "Vegan",
             "Vegetarian"
         ]
+    },
+    {
+        "name": "Plain simit with tea",
+        "ingredients": [
+            "simit"
+        ],
+        "prepTime": 0,
+        "tags": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "imageName": "plain-simit-with-tea"
     },
     {
         "name": "Panini with cheese and turkey slices",
@@ -1217,7 +1229,7 @@
             "sucuk",
             "eggs"
         ],
-        "prepTime": 7,
+        "prepTime": 0,
         "tags": [
             "High Protein",
             "Low Carb",
