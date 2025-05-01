@@ -13,16 +13,16 @@ BreakfastApp helps you discover delicious breakfast recipes based on the ingredi
 
 ## Screenshots
 
-![Breakfast Ideas Screen](screenshots/breakfast-ideas.png.png)
+<img src="screenshots/breakfast-ideas.png.png" alt="Breakfast Ideas Screen" width="400">
 _Breakfast Ideas: See recipes based on your pantry._
 
-![Recipe Detail Screen](screenshots/recipe-detail.png.png)
+<img src="screenshots/recipe-detail.png.png" alt="Recipe Detail Screen" width="400">
 _Recipe Details: View ingredients and instructions._
 
-![Pantry Screen](screenshots/pantry.png.png)
+<img src="screenshots/pantry.png.png" alt="Pantry Screen" width="400">
 _Pantry: Manage your available ingredients._
 
-![Favorites Screen](screenshots/favorites.png)
+<img src="screenshots/favorites.png" alt="Favorites Screen" width="400">
 _Favorites: Save your most loved recipes._
 
 ## Technology Stack
