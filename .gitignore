@@ -1,0 +1,5 @@
+# IDE / Editor specific
+.cursor/
+
+# macOS
+.DS_Store 
