@@ -7,7 +7,7 @@ struct RecipeCardView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 0) { // Use spacing 0 and manage padding manually
             // Use the actual image name from the recipe, or fallback to placeholder
-            Image(result.recipe.imageName ?? "photo") // Use image name, fallback to system icon
+            Image(result.recipe.imageName ?? "fallback_image") // Use image name, fallback to system icon
                 .resizable()
                 .aspectRatio(contentMode: .fill)
                 // Clip the top part of the image to have rounded corners

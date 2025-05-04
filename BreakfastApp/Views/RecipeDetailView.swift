@@ -16,7 +16,7 @@ struct RecipeDetailView: View {
         ScrollView {
             VStack(alignment: .leading, spacing: .spacingMedium) {
                 // Load image using imageName, fallback to placeholder
-                Image(recipe.imageName ?? "photo") // Use image name or system icon fallback
+                Image(recipe.imageName ?? "fallback_image") // Use image name or system icon fallback
                     .resizable()
                     .aspectRatio(contentMode: .fill)
                     .frame(height: 250) // Larger image for detail view
