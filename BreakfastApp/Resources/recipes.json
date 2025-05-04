@@ -29,7 +29,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "omelette-with-cheese"
     },
     {
         "name": "Omelette with vegetables",
@@ -46,7 +47,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "omelette-with-vegetables"
     },
     {
         "name": "Turkish Menemen",
@@ -91,7 +93,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "poached-eggs-on-toast"
     },
     {
         "name": "Avocado toast with egg",
@@ -121,7 +124,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "egg-and-cheese-sandwich"
     },
     {
         "name": "Egg muffins (baked)",
@@ -227,7 +231,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "egg-salad-sandwich"
     },
     {
         "name": "Egg and tomato toast",
@@ -241,7 +246,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "egg-and-tomato-toast"
     },
     {
         "name": "Egg in a hole",
