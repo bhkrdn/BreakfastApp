@@ -141,7 +141,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "egg-muffins-baked"
     },
     {
         "name": "Breakfast burrito with egg",
@@ -157,7 +158,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "breakfast-burrito-with-egg"
     },
     {
         "name": "Fried egg sandwich",
@@ -186,7 +188,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "egg-and-spinach-wrap"
     },
     {
         "name": "Shakshuka (simple)",
@@ -202,7 +205,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "shakshuka-simple"
     },
     {
         "name": "Cheesy scrambled eggs",
@@ -217,7 +221,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "cheesy-scrambled-eggs"
     },
     {
         "name": "Egg salad sandwich",
@@ -277,7 +282,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "egg-and-mushroom-saute"
     },
     {
         "name": "Breakfast quesadilla with egg",
@@ -291,7 +297,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "breakfast-quesadilla-with-egg"
     },
     {
         "name": "Simple frittata",
@@ -306,7 +313,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "simple-frittata"
     },
     {
         "name": "Egg and bacon sandwich",
@@ -319,7 +327,8 @@
         "prepTime": 0,
         "tags": [
             "High Protein"
-        ]
+        ],
+        "imageName": "egg-and-bacon-sandwich"
     },
     {
         "name": "Sausage and scrambled egg wrap",
@@ -334,7 +343,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "sausage-and-scrambled-egg-wrap"
     },
     {
         "name": "Cloud eggs",
@@ -348,7 +358,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "cloud-eggs"
     },
     {
         "name": "Mediterranean egg plate",
@@ -364,7 +375,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "mediterranean-egg-plate"
     },
     {
         "name": "Quick French toast",
@@ -379,7 +391,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "quick-french-toast"
     },
     {
         "name": "Overnight oats with banana",
@@ -422,7 +435,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "peanut-butter-oatmeal"
     },
     {
         "name": "Cinnamon apple oatmeal",
@@ -463,7 +477,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "strawberry-overnight-oats"
     },
     {
         "name": "Chia pudding with milk",
@@ -516,7 +531,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "smoothie-strawberry-banana"
     },
     {
         "name": "Smoothie: spinach + mango",
@@ -529,7 +545,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "smoothie-spinach-mango"
     },
     {
         "name": "Green detox smoothie",
@@ -572,7 +589,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "peanut-butter-and-jelly-smoothie"
     },
     {
         "name": "Protein smoothie",
@@ -584,7 +602,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "protein-smoothie"
     },
     {
         "name": "Coconut milk chia pudding",
@@ -596,7 +615,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "coconut-milk-chia-pudding"
     },
     {
         "name": "Warm oatmeal with raisins",
@@ -609,7 +629,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "warm-oatmeal-with-raisins"
     },
     {
         "name": "Yogurt parfait with granola",
@@ -667,7 +688,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "oatmeal-energy-balls"
     },
     {
         "name": "Mango lassi smoothie",
@@ -681,7 +703,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "mango-lassi-smoothie"
     },
     {
         "name": "Greek yogurt bowl with honey and nuts",
@@ -694,7 +717,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "greek-yogurt-bowl-with-honey-and-nuts"
     },
     {
         "name": "Chocolate overnight oats",
@@ -707,7 +731,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "chocolate-overnight-oats"
     },
     {
         "name": "Simit sandwich with cheese and tomato",
@@ -721,7 +746,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "simit-sandwich-with-cheese-and-tomato"
     },
     {
         "name": "Simit with cream cheese",
@@ -733,7 +759,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "simit-with-cream-cheese"
     },
     {
         "name": "Peanut butter and banana toast",
@@ -747,7 +774,8 @@
             "High Protein",
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "peanut-butter-and-banana-toast"
     },
     {
         "name": "Avocado toast with chili flakes",
@@ -774,7 +802,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "toasted-cheese-sandwich"
     },
     {
         "name": "Simple tomato and mozzarella sandwich",
@@ -787,7 +816,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "simple-tomato-and-mozzarella-sandwich"
     },
     {
         "name": "Nutella and strawberry sandwich",
@@ -800,7 +830,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "nutella-and-strawberry-sandwich"
     },
     {
         "name": "Hummus toast with cucumber",
@@ -813,7 +844,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "hummus-toast-with-cucumber"
     },
     {
         "name": "Tuna salad sandwich",
@@ -827,7 +859,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "tuna-salad-sandwich"
     },
     {
         "name": "Open-faced egg salad toast",
@@ -840,7 +873,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "open-faced-egg-salad-toast"
     },
     {
         "name": "Olive paste and feta toast",
@@ -853,7 +887,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "olive-paste-and-feta-toast"
     },
     {
         "name": "Labneh and cucumber sandwich",
@@ -866,7 +901,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "labneh-and-cucumber-sandwich"
     },
     {
         "name": "Panini with cheese and turkey slices",
@@ -880,7 +916,8 @@
             "High Protein",
             "Low Carb",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "panini-with-cheese-and-turkey-slices"
     },
     {
         "name": "Brie and jam toast",
@@ -893,7 +930,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "brie-and-jam-toast"
     },
     {
         "name": "Breakfast bagel with cream cheese",
@@ -905,7 +943,8 @@
         "tags": [
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "breakfast-bagel-with-cream-cheese"
     },
     {
         "name": "Quick pizza toast",
@@ -918,7 +957,8 @@
         "tags": [
             "High Protein",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "quick-pizza-toast"
     },
     {
         "name": "Avocado and cottage cheese toast",
@@ -945,7 +985,8 @@
         "prepTime": 0,
         "tags": [
             "Vegan"
-        ]
+        ],
+        "imageName": "classic-blt-sandwich"
     },
     {
         "name": "Peanut butter and jam sandwich",
@@ -959,7 +1000,8 @@
             "High Protein",
             "Vegan",
             "Vegetarian"
-        ]
+        ],
+        "imageName": "peanut-butter-and-jam-sandwich"
     },
     {
         "name": "Toast with ricotta and honey",
@@ -971,7 +1013,8 @@
         "prepTime": 0,
         "tags": [
             "Vegetarian"
-        ]
+        ],
+        "imageName": "toast-with-ricotta-and-honey"
     },
     {
         "name": "Toast with hummus and avocado",
